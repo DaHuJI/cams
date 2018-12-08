@@ -1,7 +1,7 @@
 # cams
 
-Requirements:
+**Requirements:**
 
--php >= 4.1 \n
--pnctl_fork \n
--ffmpeg \n
+*php >= 4.1
+*pnctl_fork
+*ffmpeg \n
